@@ -1,0 +1,8 @@
+
+                            Nome:Zelia
+                            CPF: 02531278954
+                            Data de Nascimento: 12/06/1990
+                            Rendimento: 5400
+                            Endereço: rua 05, 145
+                            
+                            

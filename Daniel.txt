@@ -1,0 +1,8 @@
+
+                            Nome:Daniel
+                            CPF: 14563278925
+                            Data de Nascimento: 18/07/1999
+                            Rendimento: 5000
+                            Endereço: rua4, 45
+                            
+                            

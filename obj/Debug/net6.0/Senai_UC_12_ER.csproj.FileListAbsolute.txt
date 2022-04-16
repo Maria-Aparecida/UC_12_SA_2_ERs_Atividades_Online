@@ -1,0 +1,15 @@
+C:\Users\Positivo\Desktop\Senai_UC_12_ER\bin\Debug\net6.0\Senai_UC_12_ER.exe
+C:\Users\Positivo\Desktop\Senai_UC_12_ER\bin\Debug\net6.0\Senai_UC_12_ER.deps.json
+C:\Users\Positivo\Desktop\Senai_UC_12_ER\bin\Debug\net6.0\Senai_UC_12_ER.runtimeconfig.json
+C:\Users\Positivo\Desktop\Senai_UC_12_ER\bin\Debug\net6.0\Senai_UC_12_ER.dll
+C:\Users\Positivo\Desktop\Senai_UC_12_ER\bin\Debug\net6.0\Senai_UC_12_ER.pdb
+C:\Users\Positivo\Desktop\Senai_UC_12_ER\obj\Debug\net6.0\Senai_UC_12_ER.csproj.AssemblyReference.cache
+C:\Users\Positivo\Desktop\Senai_UC_12_ER\obj\Debug\net6.0\Senai_UC_12_ER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Positivo\Desktop\Senai_UC_12_ER\obj\Debug\net6.0\Senai_UC_12_ER.AssemblyInfoInputs.cache
+C:\Users\Positivo\Desktop\Senai_UC_12_ER\obj\Debug\net6.0\Senai_UC_12_ER.AssemblyInfo.cs
+C:\Users\Positivo\Desktop\Senai_UC_12_ER\obj\Debug\net6.0\Senai_UC_12_ER.csproj.CoreCompileInputs.cache
+C:\Users\Positivo\Desktop\Senai_UC_12_ER\obj\Debug\net6.0\Senai_UC_12_ER.dll
+C:\Users\Positivo\Desktop\Senai_UC_12_ER\obj\Debug\net6.0\refint\Senai_UC_12_ER.dll
+C:\Users\Positivo\Desktop\Senai_UC_12_ER\obj\Debug\net6.0\Senai_UC_12_ER.pdb
+C:\Users\Positivo\Desktop\Senai_UC_12_ER\obj\Debug\net6.0\Senai_UC_12_ER.genruntimeconfig.cache
+C:\Users\Positivo\Desktop\Senai_UC_12_ER\obj\Debug\net6.0\ref\Senai_UC_12_ER.dll

@@ -1,0 +1,9 @@
+
+                             Nome: Beto
+                             CPF: 02356485364
+                             Rendimento: 1000
+                             Taxa de imposto a ser paga é: R$ 0,00
+                             Endereço: rua 100, 89
+                                 
+                             
+                             

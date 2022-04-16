@@ -1,0 +1,8 @@
+
+                            Nome:Ana
+                            CPF: 98756444359
+                            Data de Nascimento: 12/09/1950
+                            Rendimento: 12350
+                            Endereço: Av Marechael Rio Branco, 32
+                            
+                            

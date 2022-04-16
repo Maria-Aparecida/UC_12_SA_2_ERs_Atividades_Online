@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Senai_UC_12_ER/1.0.0": {
+        "runtime": {
+          "Senai_UC_12_ER.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Senai_UC_12_ER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
